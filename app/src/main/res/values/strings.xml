@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">projetGroceryTest</string>
+    <string name="entrer_le_nom">Entrer le nom :</string>
+    <string name="articleName">Nom</string>
+    <string name="articleQuantite">Quantite</string>
+    <string name="prix">Prix</string>
+    <color name="logo_color">#FFF5DC49</color>
+    <color name="title_color">#FFF5DC49</color>
+    <string name="suiviTitre">Evolution IMC</string>
+    <string name="title_activity_other_list">OtherListActivity</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+
+
+</resources>
